@@ -1,0 +1,12 @@
+# Generated archives and local tooling; bundled vendor files must stay tracked.
+*.zip
+*.crx
+*.pem
+node_modules/
+.DS_Store
+Thumbs.db
+Desktop.ini
+.env
+.env.*
+__pycache__/
+*.log
